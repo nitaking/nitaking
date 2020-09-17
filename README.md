@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <p align="left">
     <a href="https://github.com/nitaking/nitaking/">
         <img src="https://komarev.com/ghpvc/?username=nitaking" alt="nitaking" />
@@ -22,6 +23,12 @@
 <img height="20" src="https://qiita-badge.apiapi.app/s/nitaking/contributions.svg" />
 </a>
 </p>
+
+
+[![Medium Badge](https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki)](https://medium.com/@sa.nitawaki)
+    
+[![nitaking's github stats](https://github-readme-stats.vercel.app/api?username=nitaking&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
