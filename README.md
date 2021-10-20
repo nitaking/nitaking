@@ -25,7 +25,7 @@
     </a>
     </p>
         <a href="https://app.daily.dev/nitaking">
-            <img src="https://api.daily.dev/devcards/452b7eb4f44a4c2aaf64a125351e8673.png?r=ccb" width="400" alt="Satoshi Nitawaki's Dev Card" align="right"/>
+            <img src="https://github.com/nitaking/nitaking/blob/master/devcard.svg" width="300" alt="Satoshi Nitawaki's Dev Card" align="right"/>
         </a>
 </div>
 
