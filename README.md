@@ -36,6 +36,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitaking&layout=compact)](https://github.com/nitaking/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript        47 mins         █████████▓░░░░░░░░░░░░░░░   38.20 %
+Svelte            43 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 %
+GitIgnore file    16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+JavaScript        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Markdown          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+protobuf          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
