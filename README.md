@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              2 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   32.06 %
-Protocol Buffer   2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-TypeScript        1 hr 17 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-protobuf          1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-JSON              28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Dart              3 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.27 %
+Protocol Buffer   2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+TypeScript        1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+protobuf          1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+JSON              28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
