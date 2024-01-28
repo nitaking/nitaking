@@ -31,7 +31,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki)](https://medium.com/@sa.nitawaki)
     
-[![nitaking's github stats](https://github-readme-stats.vercel.app/api?username=nitaking&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nitaking's github stats](https://github-readme-stats.vercel.app/api?username=nitaking&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Satoshi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
