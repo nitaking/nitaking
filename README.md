@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              26 hrs 54 mins  ████████████████████░░░░░   80.14 %
-Protocol Buffer   1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-protobuf          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Markdown          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Other             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Dart              27 hrs 34 mins  ████████████████████░░░░░   80.35 %
+Protocol Buffer   1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+protobuf          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+YAML              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
