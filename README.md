@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              25 hrs 59 mins  ████████████████████░░░░░   79.46 %
-PlantUML file     2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Protocol Buffer   1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-protobuf          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-YAML              37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Dart              25 hrs 24 mins  ██████████████████▓░░░░░░   74.60 %
+PlantUML file     2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Protocol Buffer   2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+protobuf          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+YAML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
