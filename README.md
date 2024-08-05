@@ -8,22 +8,27 @@
         <a href="https://github.com/nitaking">
             <img height="20" src="https://img.shields.io/github/followers/nitaking?label=follow&logo=github&style=flat" />
         </a>
-        <a href="https://stackoverflow.com/users/8023331/nitaking">
-            <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/8023331?label=StackOverflow&logo=stack-overflow&style=flat" />
+        <a href="https://zenn.dev/nitaking">
+            <img src="https://zenn.badge.nikaera.com/s/nitaking/likes?style=flat" alt="nitaking likes" />
+        </a>
+        <a href="https://zenn.dev/nitaking/articles">
+            <img src="https://zenn.badge.nikaera.com/s/nitaking/articles?style=flat" alt="nitaking articles" />
         </a>
         <a href="http://qiita.com/nitaking">
-            <img height="20" src="https://qiita-badge.apiapi.app/s/nitaking/posts.svg" />
+            <img height="20" src="https://qiita-badge.apiapi.app/s/nitaking/contributions.svg" />
         </a>
-    <//qiita.com/nitaking">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nitaking/contributions.svg" />
-    </a>
+                </a>
+        <a href="https://medium.com/@sa.nitawaki">
+            <img height="20" src="https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki" alt="Satoshi Nitawaki's Medium" />
+        </a>
     </p>
         <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact" width="400" alt="Satoshi Nitawaki's Dev Card" align="right"/>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact" width="400" alt="Satoshi's Wakatime stats" align="right"/>
         </a>
 </div>
 
-[![Medium Badge](https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki)](https://medium.com/@sa.nitawaki)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki)](https://medium.com/@sa.nitawaki) -->
+
     
 [![nitaking's github stats](https://github-readme-stats.vercel.app/api?username=nitaking&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
