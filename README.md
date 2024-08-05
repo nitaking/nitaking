@@ -23,7 +23,7 @@
         </a>
     </p>
         <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact" width="400" alt="Satoshi's Wakatime stats" align="right"/>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact" width="350" alt="Satoshi's Wakatime stats" align="right"/>
         </a>
 </div>
 
