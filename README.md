@@ -22,15 +22,20 @@
             <img height="20" src="https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki" alt="Satoshi Nitawaki's Medium" />
         </a>
     </p>
-        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact" width="315" alt="Satoshi's Wakatime stats" align="right"/>
-        </a>
 </div>
+
+
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki)](https://medium.com/@sa.nitawaki) -->
 
+
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact"  alt="Satoshi's Wakatime stats" align="right"/>
+        </a>
     
 [![nitaking's github stats](https://github-readme-stats.vercel.app/api?username=nitaking&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [![Satoshi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
