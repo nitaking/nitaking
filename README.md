@@ -41,11 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       22 mins         ██████████████████░░░░░░░   72.26 %
-JSON             3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-textmate         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
