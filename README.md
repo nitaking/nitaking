@@ -41,7 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+textmate   7 mins          █████████▓░░░░░░░░░░░░░░░   39.12 %
+Bash       6 mins          █████████░░░░░░░░░░░░░░░░   36.62 %
+Text       4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
