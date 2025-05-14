@@ -41,11 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       15 mins         █████████████▓░░░░░░░░░░░   54.57 %
-Markdown         5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Bash             4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-.env file        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-textmate         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
