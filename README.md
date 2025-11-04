@@ -41,11 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       13 mins         ████████████████████▒░░░░   81.49 %
-TypeScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
