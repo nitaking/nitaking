@@ -7,27 +7,14 @@
         </a>
         <a href="https://github.com/nitaking">
             <img height="20" src="https://img.shields.io/github/followers/nitaking?label=follow&logo=github&style=flat" />
-        </a>
-        <a href="https://zenn.dev/nitaking">
-            <img src="https://zenn.badge.nikaera.com/s/nitaking/likes?style=flat" alt="nitaking likes" />
-        </a>
-        <a href="https://zenn.dev/nitaking/articles">
-            <img src="https://zenn.badge.nikaera.com/s/nitaking/articles?style=flat" alt="nitaking articles" />
-        </a>
+        </a><a href="https://zenn.dev/nitaking"><img src="https://badgen.org/img/zenn/nitaking/likes?style=plastic" alt="Likes" /></a>
+        <a href="https://zenn.dev/nitaking"><img src="https://badgen.org/img/zenn/nitaking/articles?style=plastic" alt="Articles" /></a>
         <a href="http://qiita.com/nitaking">
             <img height="20" src="https://qiita-badge.apiapi.app/s/nitaking/contributions.svg" />
         </a>
                 </a>
         <a href="https://medium.com/@sa.nitawaki">
             <img height="20" src="https://img.shields.io/badge/-@sa.nitawaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sa.nitawaki" alt="Satoshi Nitawaki's Medium" />
-        </a>
-    </p>
-    <p>
-        <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nitaking&amp;count_private=true&amp;rank_icon=github" alt="nitaking&#39;s github stats"></a></p>
-    </p>
-    <p>
-        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact"  alt="Satoshi's Wakatime stats"/>
         </a>
     </p>
 </div>
@@ -37,14 +24,34 @@
 
 <!-- [![Satoshi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nitaking&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## OSS
 
-<!--START_SECTION:waka-->
+publish npms: https://www.npmjs.com/~sa-nitawaki
 
-```txt
-No activity tracked
-```
+## Overview
 
-<!--END_SECTION:waka-->
+| Item | Details |
+|---|---|
+| Username | nitaking |
+| Location | Tokyo, Japan |
+| Primary Tech Stack | React, TypeScript, JavaScript, Node.js, Flutter, Dart, Go |
+| Total Repositories | 121 |
+| Stars | 488+ |
+| Contributions (Last 12 Months) | 490+ |
+| GitHub Achievements | Pair Extraordinaire, Pull Shark, YOLO, Arctic Code Vault Contributor |
+| Website | [nitaking.dev](https://www.nitaking.dev) |
+| Twitter/X | [@nitaking_](https://twitter.com/nitaking_) |
+
+[^1]: https://github.com/nitaking
+[^2]: https://qiita.com/nitaking/items/df6ee749420e8ad5ace0
+[^3]: https://github.com/BitcoinDesign/Guide/blob/master/guide/case-studies/saving-satoshi.md
+[^4]: https://www.npmjs.com/package/gitmoji-cli/v/5.0.1
+[^5]: https://www.npmjs.com/package/sequelize
+[^6]: https://www.npmjs.com/package/gitmoji-cli
+[^7]: https://hashnode.com/@nitaking
+[^8]: https://t.me/s/TutorialBTC/120896
+
+
 
 <!--
 **nitaking/nitaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
